@@ -6,6 +6,7 @@
 ## OpenML Tutorial
 
 site: https://openml.github.io/openml-tutorial/
+github: https://github.com/openml/openml-tutorial
 
 ### OpenML
 
